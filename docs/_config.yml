@@ -28,6 +28,10 @@ baseurl: "/YOLOv8-Radiography" # The subpath of your site
 url: "https://redwankarimsony.github.io" # Your GitHub Pages URL
 twitter_username: jekyllrb
 github_username:  jekyll
+facebook_username: redwankarimsony
+
+
+
 
 # Build settings
 theme: minima
