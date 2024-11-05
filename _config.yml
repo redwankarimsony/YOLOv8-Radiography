@@ -1,0 +1,27 @@
+title: "ABC Showcase"
+description: "A showcase page for the ABC repository"
+baseurl: "/YOLOv8-Radiography" # The subpath of your site
+url: "https://redwankarimsony.github.io" # Your GitHub Pages URL
+
+
+theme: "jekyll-TeXt-theme"
+
+# Permalink and pagination settings
+permalink: /:categories/:title/
+paginate_path: "/page/:num/"
+markdown: kramdown
+
+# Social media (optional)
+social:
+  github: "https://github.com/yourusername/ABC"
+  twitter: "https://twitter.com/yourusername"
+
+# Sidebar settings
+sidebar:
+  about: "This is the ABC showcase page."
+
+# Additional pages
+showcase:
+  title: "Showcase"
+  layout: "page"
+  permalink: "/showcase/"
